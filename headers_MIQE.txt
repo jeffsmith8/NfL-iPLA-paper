@@ -1,0 +1,119 @@
+well
+position
+target
+sample_id
+tube_id
+rep_id
+dilution
+var_1
+var_2
+var_3
+var_4
+usr_std
+usr_raw_ng/L
+usr_mean_ng/L
+var_1 (desc)
+var_2 (desc)
+var_3 (desc)
+var_4 (desc)
+calibrator
+Chemistry
+PassiveReference
+QuantificationCycleMethod
+InstrumentName
+InstrumentSerialNumber
+InstrumentType
+BlockType
+ExperimentRunStartTime
+ExperimentRunStopTime
+ExperimentType
+DateCreated
+ct
+tm
+threshold
+ct; mean
+rdml_sample
+rdml_sample type
+rdml_sample nucleotide
+rdml_target
+rdml_target chemistry
+rdml_excluded
+rdml_note
+rdml_baseline
+rdml_lower limit
+rdml_upper limit
+rdml_common threshold
+rdml_group threshold
+rdml_n in log phase
+rdml_last log cycle
+rdml_n included
+rdml_log lin cycle
+rdml_log lin fluorescence
+rdml_indiv PCR eff
+rdml_R2
+rdml_mean PCR eff - no plateau - stat efficiency
+rdml_standard error of the stat PCR eff - no plateau - stat efficiency
+rdml_N0 (mean eff) - no plateau - stat efficiency
+rdml_Cq (mean eff) - no plateau - stat efficiency
+rdml_log2N0 (mean eff) - no plateau - stat efficiency
+rdml_log2N0 (mean eff) - no plateau - stat efficiency; mean
+rdml_amplification
+rdml_baseline error
+rdml_instable baseline
+rdml_plateau
+rdml_noisy sample
+rdml_PCR efficiency outside mean rage
+rdml_PCR efficiency outside mean rage - no plateau
+rdml_PCR efficiency outlier
+rdml_PCR efficiency outlier - no plateau
+rdml_short log lin phase
+rdml_Cq is shifting
+rdml_too low Cq eff
+rdml_too low Cq N0
+rdml_used for W-o-L setting
+py_known_conc
+py_known_conc_log10
+SLR; log10(x); exc_std0; ct; grad
+SLR; log10(x); exc_std0; ct; y_int
+SLR; log10(x); exc_std0; ct; equation
+SLR; log10(x); exc_std0; ct; R2
+SLR; log10(x); exc_std0; ct; PCReff
+SLR; log10(x); exc_std0; ct; raw_ng/L
+SLR; log10(x); exc_std0; ct; mean_ng/L
+SLR; log10(x); exc_std0; ct; raw_recovery
+SLR; log10(x); exc_std0; ct; mean_recovery
+SLR; log10(x); exc_std0; rdml_log2N0 (mean eff) - no plateau - stat efficiency; grad
+SLR; log10(x); exc_std0; rdml_log2N0 (mean eff) - no plateau - stat efficiency; y_int
+SLR; log10(x); exc_std0; rdml_log2N0 (mean eff) - no plateau - stat efficiency; equation
+SLR; log10(x); exc_std0; rdml_log2N0 (mean eff) - no plateau - stat efficiency; R2
+SLR; log10(x); exc_std0; rdml_log2N0 (mean eff) - no plateau - stat efficiency; PCReff
+SLR; log10(x); exc_std0; rdml_log2N0 (mean eff) - no plateau - stat efficiency; raw_ng/L
+SLR; log10(x); exc_std0; rdml_log2N0 (mean eff) - no plateau - stat efficiency; mean_ng/L
+SLR; log10(x); exc_std0; rdml_log2N0 (mean eff) - no plateau - stat efficiency; raw_recovery
+SLR; log10(x); exc_std0; rdml_log2N0 (mean eff) - no plateau - stat efficiency; mean_recovery
+well (eds; raw data)
+well position (eds; raw data)
+cycle (eds; raw data)
+x1-m1 (eds; raw data)
+x2-m2 (eds; raw data)
+x3-m3 (eds; raw data)
+x4-m4 (eds; raw data)
+x5-m5 (eds; raw data)
+well (eds; amplification data)
+cycle (eds; amplification data)
+target name (eds; amplification data)
+rn (eds; amplification data)
+delta rn (eds; amplification data)
+well (eds; multicomponent data)
+well position (eds; multicomponent data)
+cycle (eds; multicomponent data)
+rox (eds; multicomponent data)
+sybr (eds; multicomponent data)
+fam (eds; multicomponent data)
+cy5 (eds; multicomponent data)
+well (eds; melt curve raw data)
+well position (eds; melt curve raw data)
+reading (eds; melt curve raw data)
+temperature (eds; melt curve raw data)
+fluorescence (eds; melt curve raw data)
+derivative (eds; melt curve raw data)
