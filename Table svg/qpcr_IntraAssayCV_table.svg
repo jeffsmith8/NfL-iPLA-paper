@@ -1,0 +1,36 @@
+<svg viewBox="0 0 580 162" xmlns="http://www.w3.org/2000/svg" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13" role="img">
+  <title>qPCR Instrument CV Table</title>
+
+  <!-- Header row -->
+  <rect x="0" y="0" width="580" height="36" fill="#ffffff"/>
+  <line x1="0" y1="36" x2="580" y2="36" stroke="#aaaaaa" stroke-width="1.2"/>
+
+  <text x="80"  y="23" font-size="12" fill="#333333" font-weight="500" text-anchor="middle">Instrument</text>
+  <text x="270" y="23" font-size="12" fill="#333333" font-weight="500" text-anchor="middle">n (samples)</text>
+  <text x="410" y="23" font-size="12" fill="#333333" font-weight="500" text-anchor="middle">Mean CV (%)</text>
+  <text x="530" y="23" font-size="12" fill="#333333" font-weight="500" text-anchor="middle">IQR</text>
+
+  <!-- Row 1: Quant 12k Flex #1 -->
+  <rect x="0" y="36" width="580" height="42" fill="#ffffff"/>
+  <line x1="0" y1="78" x2="580" y2="78" stroke="#e8e8e8" stroke-width="0.5"/>
+  <text x="80"  y="62" fill="#444444" text-anchor="middle">Quant 12k Flex #1</text>
+  <text x="270" y="62" fill="#444444" text-anchor="middle">239</text>
+  <text x="410" y="62" fill="#444444" text-anchor="middle">5.9</text>
+  <text x="530" y="62" fill="#444444" text-anchor="middle">1.8 – 9.2</text>
+
+  <!-- Row 2: Quant 12k Flex #2 -->
+  <rect x="0" y="78" width="580" height="42" fill="#f9f9f8"/>
+  <line x1="0" y1="120" x2="580" y2="120" stroke="#e8e8e8" stroke-width="0.5"/>
+  <text x="80"  y="104" fill="#444444" text-anchor="middle">Quant 12k Flex #2</text>
+  <text x="270" y="104" fill="#444444" text-anchor="middle">83</text>
+  <text x="410" y="104" fill="#444444" text-anchor="middle">7.1</text>
+  <text x="530" y="104" fill="#444444" text-anchor="middle">3.2 – 9.2</text>
+
+  <!-- Row 3: Bio-Rad CFX96 -->
+  <rect x="0" y="120" width="580" height="42" fill="#ffffff"/>
+  <line x1="0" y1="162" x2="580" y2="162" stroke="#cccccc" stroke-width="1"/>
+  <text x="80"  y="146" fill="#444444" text-anchor="middle">Bio-Rad CFX96</text>
+  <text x="270" y="146" fill="#444444" text-anchor="middle">34</text>
+  <text x="410" y="146" fill="#444444" text-anchor="middle">5.9</text>
+  <text x="530" y="146" fill="#444444" text-anchor="middle">1.9 – 9.1</text>
+</svg>

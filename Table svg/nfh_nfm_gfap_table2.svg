@@ -1,0 +1,49 @@
+<svg viewBox="0 0 580 160" xmlns="http://www.w3.org/2000/svg" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13" role="img">
+  <title>NfH, NfM, GFAP, b-Tubulin p-value table</title>
+
+  <!-- Header -->
+  <rect x="0" y="0" width="580" height="36" fill="#ffffff"/>
+  <line x1="0" y1="36" x2="580" y2="36" stroke="#aaaaaa" stroke-width="1.2"/>
+
+  <text x="14" y="23" font-size="12" fill="#777777">pg/ml</text>
+  <text x="145" y="23" font-size="12" fill="#333333" font-weight="500" text-anchor="middle">NfH</text>
+  <text x="255" y="23" font-size="12" fill="#333333" font-weight="500" text-anchor="middle">NfM</text>
+  <text x="365" y="23" font-size="12" fill="#333333" font-weight="500" text-anchor="middle">GFAP</text>
+  <text x="490" y="23" font-size="12" fill="#333333" font-weight="500" text-anchor="middle">b-Tubulin</text>
+
+  <!-- Row: 0.2 -->
+  <rect x="0" y="36" width="580" height="34" fill="#ffffff"/>
+  <line x1="0" y1="70" x2="580" y2="70" stroke="#e8e8e8" stroke-width="0.5"/>
+  <text x="14" y="57" fill="#666666">0.2</text>
+  <text x="145" y="57" fill="#444444" text-anchor="middle">0.01</text>
+  <text x="255" y="57" fill="#444444" text-anchor="middle">0.01</text>
+  <text x="365" y="57" fill="#444444" text-anchor="middle">0.01</text>
+  <text x="490" y="57" fill="#444444" text-anchor="middle">0.01</text>
+
+  <!-- Row: 20 -->
+  <rect x="0" y="70" width="580" height="34" fill="#f9f9f8"/>
+  <line x1="0" y1="104" x2="580" y2="104" stroke="#e8e8e8" stroke-width="0.5"/>
+  <text x="14" y="91" fill="#666666">20</text>
+  <text x="145" y="91" fill="#444444" text-anchor="middle">0.01</text>
+  <text x="255" y="91" fill="#444444" text-anchor="middle">0.01</text>
+  <text x="365" y="91" fill="#444444" text-anchor="middle">0.01</text>
+  <text x="490" y="91" fill="#444444" text-anchor="middle">0.01</text>
+
+  <!-- Row: 2000 -->
+  <rect x="0" y="104" width="580" height="34" fill="#ffffff"/>
+  <line x1="0" y1="138" x2="580" y2="138" stroke="#e8e8e8" stroke-width="0.5"/>
+  <text x="14" y="125" fill="#666666">2000</text>
+  <text x="145" y="125" fill="#444444" text-anchor="middle">0.01</text>
+  <text x="255" y="125" fill="#444444" text-anchor="middle">0.01</text>
+  <text x="365" y="125" fill="#444444" text-anchor="middle">0.01</text>
+  <text x="490" y="125" fill="#444444" text-anchor="middle">0.01</text>
+
+  <!-- Row: 200000 -->
+  <rect x="0" y="138" width="580" height="34" fill="#f9f9f8"/>
+  <line x1="0" y1="172" x2="580" y2="172" stroke="#cccccc" stroke-width="1"/>
+  <text x="14" y="159" fill="#666666">200000</text>
+  <text x="145" y="159" fill="#444444" text-anchor="middle">0.01</text>
+  <text x="255" y="159" fill="#444444" text-anchor="middle">0.28</text>
+  <text x="365" y="159" fill="#444444" text-anchor="middle">0.01</text>
+  <text x="490" y="159" fill="#444444" text-anchor="middle">0.01</text>
+</svg>

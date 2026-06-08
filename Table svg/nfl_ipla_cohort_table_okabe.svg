@@ -1,0 +1,547 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 687.14191 331.47543"
+   font-family="'Helvetica Neue', Helvetica, Arial, sans-serif"
+   font-size="13px"
+   role="img"
+   version="1.1"
+   id="svg43"
+   sodipodi:docname="nfl_ipla_cohort_table.svg"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   width="687.14191"
+   height="331.47543"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs43" />
+  <sodipodi:namedview
+     id="namedview43"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="3.4313287"
+     inkscape:cx="381.92202"
+     inkscape:cy="212.59986"
+     inkscape:window-width="3840"
+     inkscape:window-height="2054"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg43" />
+  <title
+     id="title1">NfL iPLA cohort table — dementia vs PPD vs control</title>
+  <desc
+     id="desc1">Table of demographic and NfL biomarker characteristics for dementia (n=50), primary psychiatric disorder (n=90), and control (n=37) cohorts.</desc>
+  <!-- Header row background -->
+  <rect
+     x="0"
+     y="0"
+     width="687.14191"
+     height="52"
+     fill="#ffffff"
+     rx="0"
+     id="rect1"
+     style="stroke-width:0.95086" />
+  <line
+     x1="0"
+     y1="52"
+     x2="687.14191"
+     y2="52"
+     stroke="#aaaaaa"
+     stroke-width="1.14103"
+     id="line1" />
+  <!-- Header text -->
+  <text
+     x="14"
+     y="22"
+     font-size="12px"
+     fill="#777777"
+     id="text1">Characteristic</text>
+  <text
+     x="290"
+     y="22"
+     font-size="12px"
+     fill="#777777"
+     text-anchor="end"
+     id="text2">Total N</text>
+  <!-- Dementia pill -->
+  <rect
+     x="310"
+     y="6"
+     width="120"
+     height="20"
+     rx="10"
+     fill="#FDF3D9"
+     stroke="#E69F00"
+     stroke-width="0.7"
+     id="rect2" />
+  <text
+     x="370"
+     y="20"
+     font-size="12px"
+     fill="#7A5500"
+     text-anchor="middle"
+     font-weight="500"
+     id="text3">Dementia</text>
+  <text
+     x="370"
+     y="46"
+     font-size="11px"
+     fill="#999999"
+     text-anchor="middle"
+     id="text4">n = 50</text>
+  <!-- PPD pill -->
+  <rect
+     x="440"
+     y="6"
+     width="100"
+     height="20"
+     rx="10"
+     fill="#D6F0E8"
+     stroke="#009E73"
+     stroke-width="0.7"
+     id="rect4" />
+  <text
+     x="490"
+     y="20"
+     font-size="12px"
+     fill="#006B4E"
+     text-anchor="middle"
+     font-weight="500"
+     id="text5">PPD</text>
+  <text
+     x="490"
+     y="46"
+     font-size="11px"
+     fill="#999999"
+     text-anchor="middle"
+     id="text6">n = 90</text>
+  <!-- Control pill -->
+  <rect
+     x="552"
+     y="6"
+     width="120"
+     height="20"
+     rx="10"
+     fill="#EBEBEB"
+     stroke="#555555"
+     stroke-width="0.7"
+     id="rect6" />
+  <text
+     x="612"
+     y="20"
+     font-size="12px"
+     fill="#555555"
+     text-anchor="middle"
+     font-weight="500"
+     id="text7">Control</text>
+  <text
+     x="612"
+     y="46"
+     font-size="11px"
+     fill="#999999"
+     text-anchor="middle"
+     id="text8">n = 37</text>
+  <!-- DEMOGRAPHICS section header -->
+  <rect
+     x="0"
+     y="53"
+     width="687.14191"
+     height="24"
+     fill="#f5f4f0"
+     id="rect8"
+     style="stroke-width:0.95086" />
+  <line
+     x1="0"
+     y1="53"
+     x2="687.14191"
+     y2="53"
+     stroke="#cccccc"
+     stroke-width="0.47543"
+     id="line8" />
+  <line
+     x1="0"
+     y1="77"
+     x2="687.14191"
+     y2="77"
+     stroke="#cccccc"
+     stroke-width="0.47543"
+     id="line9" />
+  <text
+     x="14"
+     y="69"
+     font-size="12px"
+     fill="#333333"
+     font-weight="500"
+     id="text9">Demographics</text>
+  <!-- Row: Age -->
+  <rect
+     x="0"
+     y="77"
+     width="687.14191"
+     height="34"
+     fill="#ffffff"
+     id="rect9"
+     style="stroke-width:0.95086" />
+  <line
+     x1="0"
+     y1="111"
+     x2="687.14191"
+     y2="111"
+     stroke="#e8e8e8"
+     stroke-width="0.47543"
+     id="line10" />
+  <text
+     x="14"
+     y="98"
+     fill="#666666"
+     id="text10">Age, mean (SD)</text>
+  <text
+     x="282"
+     y="98"
+     fill="#999999"
+     text-anchor="end"
+     id="text11">177</text>
+  <text
+     x="370"
+     y="98"
+     fill="#444444"
+     text-anchor="middle"
+     id="text12">60 (12)</text>
+  <text
+     x="490"
+     y="98"
+     fill="#444444"
+     text-anchor="middle"
+     id="text13">38 (15)</text>
+  <text
+     x="612"
+     y="98"
+     fill="#444444"
+     text-anchor="middle"
+     id="text14">40 (18)</text>
+  <!-- Row: Sex -->
+  <rect
+     x="0"
+     y="111"
+     width="687.14191"
+     height="34"
+     fill="#ffffff"
+     id="rect14"
+     style="stroke-width:0.95086" />
+  <line
+     x1="0"
+     y1="145"
+     x2="687.14191"
+     y2="145"
+     stroke="#e8e8e8"
+     stroke-width="0.47543"
+     id="line14" />
+  <text
+     x="14"
+     y="132"
+     fill="#666666"
+     id="text15">Sex, F / M</text>
+  <text
+     x="282"
+     y="132"
+     fill="#999999"
+     text-anchor="end"
+     id="text16">177</text>
+  <text
+     x="370"
+     y="132"
+     fill="#444444"
+     text-anchor="middle"
+     id="text17">23 / 27</text>
+  <text
+     x="490"
+     y="132"
+     fill="#444444"
+     text-anchor="middle"
+     id="text18">50 / 40</text>
+  <text
+     x="612"
+     y="132"
+     fill="#444444"
+     text-anchor="middle"
+     id="text19">17 / 20</text>
+  <!-- Row: Weight -->
+  <rect
+     x="0"
+     y="145"
+     width="687.14191"
+     height="34"
+     fill="#ffffff"
+     id="rect19"
+     style="stroke-width:0.95086" />
+  <line
+     x1="0"
+     y1="179"
+     x2="686.85046"
+     y2="179"
+     stroke="#e8e8e8"
+     stroke-width="0.475329"
+     id="line19" />
+  <text
+     x="14"
+     y="166"
+     fill="#666666"
+     id="text20">Weight kg, mean (SD)</text>
+  <text
+     x="282"
+     y="166"
+     fill="#999999"
+     text-anchor="end"
+     id="text21">84</text>
+  <text
+     x="370"
+     y="166"
+     fill="#444444"
+     text-anchor="middle"
+     id="text22">72 (19)</text>
+  <text
+     x="490"
+     y="166"
+     fill="#444444"
+     text-anchor="middle"
+     id="text23">76 (23)</text>
+  <text
+     x="612"
+     y="166"
+     fill="#aaaaaa"
+     text-anchor="middle"
+     font-style="italic"
+     id="text24">n/a</text>
+  <!-- Row: Missing (weight) -->
+  <rect
+     x="0"
+     y="179"
+     width="687.14191"
+     height="30"
+     fill="#ffffff"
+     id="rect24"
+     style="stroke-width:0.95086" />
+  <line
+     x1="0"
+     y1="209"
+     x2="686.85046"
+     y2="209"
+     stroke="#e8e8e8"
+     stroke-width="0.475329"
+     id="line24" />
+  <text
+     x="30"
+     y="198"
+     fill="#aaaaaa"
+     font-size="12px"
+     id="text25">Missing</text>
+  <text
+     x="370"
+     y="198"
+     fill="#aaaaaa"
+     text-anchor="middle"
+     font-size="12px"
+     id="text26">18</text>
+  <text
+     x="490"
+     y="198"
+     fill="#aaaaaa"
+     text-anchor="middle"
+     font-size="12px"
+     id="text27">38</text>
+  <text
+     x="612"
+     y="198"
+     fill="#aaaaaa"
+     text-anchor="middle"
+     font-size="12px"
+     id="text28">37</text>
+  <!-- NfL BIOMARKER section header -->
+  <rect
+     x="0"
+     y="209"
+     width="687.14191"
+     height="24"
+     fill="#f5f4f0"
+     id="rect28"
+     style="stroke-width:0.95086" />
+  <line
+     x1="0"
+     y1="209"
+     x2="687.14191"
+     y2="209"
+     stroke="#cccccc"
+     stroke-width="0.47543"
+     id="line28" />
+  <line
+     x1="0"
+     y1="233"
+     x2="687.14191"
+     y2="233"
+     stroke="#cccccc"
+     stroke-width="0.47543"
+     id="line29" />
+  <text
+     x="14"
+     y="225"
+     font-size="12px"
+     fill="#333333"
+     font-weight="500"
+     id="text29">NfL biomarker, mean (SD)</text>
+  <!-- Row: iPLA -->
+  <rect
+     x="0"
+     y="233"
+     width="687.14191"
+     height="34"
+     fill="#ffffff"
+     id="rect29"
+     style="stroke-width:0.95086" />
+  <line
+     x1="0"
+     y1="267"
+     x2="687.14191"
+     y2="267"
+     stroke="#e8e8e8"
+     stroke-width="0.47543"
+     id="line30" />
+  <text
+     x="14"
+     y="254"
+     fill="#666666"
+     id="text30">NfL — iPLA assay</text>
+  <text
+     x="282"
+     y="254"
+     fill="#999999"
+     text-anchor="end"
+     id="text31">177</text>
+  <text
+     x="370"
+     y="254"
+     fill="#444444"
+     text-anchor="middle"
+     id="text32">32 (36)</text>
+  <text
+     x="490"
+     y="254"
+     fill="#444444"
+     text-anchor="middle"
+     id="text33">11 (8)</text>
+  <text
+     x="612"
+     y="254"
+     fill="#444444"
+     text-anchor="middle"
+     id="text34">8 (8)</text>
+  <!-- Row: Simoa -->
+  <rect
+     x="0"
+     y="267"
+     width="687.14191"
+     height="34"
+     fill="#ffffff"
+     id="rect34"
+     style="stroke-width:0.95086" />
+  <line
+     x1="0"
+     y1="301"
+     x2="687.14191"
+     y2="301"
+     stroke="#e8e8e8"
+     stroke-width="0.47543"
+     id="line34" />
+  <text
+     x="14"
+     y="288"
+     fill="#666666"
+     id="text35">NfL — Simoa assay</text>
+  <text
+     x="282"
+     y="288"
+     fill="#999999"
+     text-anchor="end"
+     id="text36">155</text>
+  <text
+     x="370"
+     y="288"
+     fill="#444444"
+     text-anchor="middle"
+     id="text37">33 (36)</text>
+  <text
+     x="490"
+     y="288"
+     fill="#444444"
+     text-anchor="middle"
+     id="text38">11 (9)</text>
+  <text
+     x="612"
+     y="288"
+     fill="#aaaaaa"
+     text-anchor="middle"
+     font-style="italic"
+     id="text39">n/a</text>
+  <!-- Row: Missing (Simoa) -->
+  <rect
+     x="0"
+     y="301"
+     width="687.14191"
+     height="30"
+     fill="#ffffff"
+     id="rect39"
+     style="stroke-width:0.95086" />
+  <line
+     x1="0"
+     y1="331"
+     x2="687.14191"
+     y2="331"
+     stroke="#cccccc"
+     stroke-width="0.95086"
+     id="line39" />
+  <text
+     x="30"
+     y="320"
+     fill="#aaaaaa"
+     font-size="12px"
+     id="text40">Missing</text>
+  <text
+     x="370"
+     y="320"
+     fill="#aaaaaa"
+     text-anchor="middle"
+     font-size="12px"
+     id="text41">0</text>
+  <text
+     x="490"
+     y="320"
+     fill="#aaaaaa"
+     text-anchor="middle"
+     font-size="12px"
+     id="text42">0</text>
+  <text
+     x="612"
+     y="320"
+     fill="#aaaaaa"
+     text-anchor="middle"
+     font-size="12px"
+     id="text43">37</text>
+  <metadata
+     id="metadata43">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>NfL iPLA cohort table — dementia vs PPD vs control</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>

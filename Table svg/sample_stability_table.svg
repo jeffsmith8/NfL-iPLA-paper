@@ -1,0 +1,76 @@
+<svg viewBox="0 0 680 160" xmlns="http://www.w3.org/2000/svg" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12" role="img">
+  <title>Sample stability — NfL measurements at 0hr, 2hr, 24hr</title>
+
+  <!-- Column centres:
+       Sample: x=40 centre
+       0hr:    x=130 centre
+       2hr:    x=220 centre
+       24hr:   x=310 centre
+       mean:   x=400 centre
+       CV%:    x=475 centre
+       Age:    x=550 centre
+       Sex:    x=630 centre
+       Right:  x=680
+  -->
+
+  <!-- Header -->
+  <rect x="0" y="0" width="680" height="30" fill="#ffffff"/>
+  <line x1="0" y1="30" x2="680" y2="30" stroke="#aaaaaa" stroke-width="1.2"/>
+  <text x="40"  y="20" font-size="11" fill="#333333" font-weight="500" text-anchor="middle">Sample</text>
+  <text x="130" y="20" font-size="11" fill="#333333" font-weight="500" text-anchor="middle">0hr</text>
+  <text x="220" y="20" font-size="11" fill="#333333" font-weight="500" text-anchor="middle">2hr</text>
+  <text x="310" y="20" font-size="11" fill="#333333" font-weight="500" text-anchor="middle">24hr</text>
+  <text x="400" y="20" font-size="11" fill="#333333" font-weight="500" text-anchor="middle">mean</text>
+  <text x="475" y="20" font-size="11" fill="#333333" font-weight="500" text-anchor="middle">CV %</text>
+  <text x="550" y="20" font-size="11" fill="#333333" font-weight="500" text-anchor="middle">Age</text>
+  <text x="630" y="20" font-size="11" fill="#333333" font-weight="500" text-anchor="middle">Sex</text>
+
+  <!-- Row 1 -->
+  <rect x="0" y="30" width="680" height="32" fill="#ffffff"/>
+  <line x1="0" y1="62" x2="680" y2="62" stroke="#e8e8e8" stroke-width="0.5"/>
+  <text x="40"  y="50" fill="#444444" text-anchor="middle">1</text>
+  <text x="130" y="50" fill="#444444" text-anchor="middle">11.8</text>
+  <text x="220" y="50" fill="#444444" text-anchor="middle">12.7</text>
+  <text x="310" y="50" fill="#444444" text-anchor="middle">13.0</text>
+  <text x="400" y="50" fill="#444444" text-anchor="middle">12.5</text>
+  <text x="475" y="50" fill="#444444" text-anchor="middle">5</text>
+  <text x="550" y="50" fill="#666666" text-anchor="middle">65</text>
+  <text x="630" y="50" fill="#666666" text-anchor="middle">M</text>
+
+  <!-- Row 2 -->
+  <rect x="0" y="62" width="680" height="32" fill="#f9f9f8"/>
+  <line x1="0" y1="94" x2="680" y2="94" stroke="#e8e8e8" stroke-width="0.5"/>
+  <text x="40"  y="82" fill="#444444" text-anchor="middle">2</text>
+  <text x="130" y="82" fill="#444444" text-anchor="middle">13.2</text>
+  <text x="220" y="82" fill="#444444" text-anchor="middle">13.5</text>
+  <text x="310" y="82" fill="#444444" text-anchor="middle">13.0</text>
+  <text x="400" y="82" fill="#444444" text-anchor="middle">13.2</text>
+  <text x="475" y="82" fill="#444444" text-anchor="middle">2</text>
+  <text x="550" y="82" fill="#666666" text-anchor="middle">75</text>
+  <text x="630" y="82" fill="#666666" text-anchor="middle">F</text>
+
+  <!-- Row 3 -->
+  <rect x="0" y="94" width="680" height="32" fill="#ffffff"/>
+  <line x1="0" y1="126" x2="680" y2="126" stroke="#e8e8e8" stroke-width="0.5"/>
+  <text x="40"  y="114" fill="#444444" text-anchor="middle">3</text>
+  <text x="130" y="114" fill="#444444" text-anchor="middle">6.0</text>
+  <text x="220" y="114" fill="#444444" text-anchor="middle">5.3</text>
+  <text x="310" y="114" fill="#444444" text-anchor="middle">6.5</text>
+  <text x="400" y="114" fill="#444444" text-anchor="middle">5.9</text>
+  <text x="475" y="114" fill="#444444" text-anchor="middle">10</text>
+  <text x="550" y="114" fill="#666666" text-anchor="middle">55</text>
+  <text x="630" y="114" fill="#666666" text-anchor="middle">M</text>
+
+  <!-- Row 4 -->
+  <rect x="0" y="126" width="680" height="32" fill="#f9f9f8"/>
+  <line x1="0" y1="158" x2="680" y2="158" stroke="#cccccc" stroke-width="1"/>
+  <text x="40"  y="146" fill="#444444" text-anchor="middle">4</text>
+  <text x="130" y="146" fill="#444444" text-anchor="middle">5.5</text>
+  <text x="220" y="146" fill="#444444" text-anchor="middle">5.0</text>
+  <text x="310" y="146" fill="#444444" text-anchor="middle">4.7</text>
+  <text x="400" y="146" fill="#444444" text-anchor="middle">5.0</text>
+  <text x="475" y="146" fill="#444444" text-anchor="middle">8</text>
+  <text x="550" y="146" fill="#666666" text-anchor="middle">20</text>
+  <text x="630" y="146" fill="#666666" text-anchor="middle">M</text>
+
+</svg>

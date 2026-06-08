@@ -1,0 +1,128 @@
+<svg viewBox="0 0 680 400" xmlns="http://www.w3.org/2000/svg" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12" role="img">
+  <title>NfL-iPLA stability and recovery</title>
+
+  <!-- Column layout:
+       Label:    x=14 left
+       Plasma 1: x=310 centre
+       Plasma 2: x=460 centre
+       Plasma 3: x=600 centre
+       Right:    x=680
+  -->
+
+  <!-- ── HEADER ── -->
+  <rect x="0" y="0" width="680" height="52" fill="#ffffff"/>
+  <line x1="0" y1="52" x2="680" y2="52" stroke="#aaaaaa" stroke-width="1.2"/>
+
+  <text x="14"  y="30" font-size="11" fill="#333333" font-weight="500">NfL-iPLA</text>
+
+  <!-- Recovery column headers -->
+  <text x="310" y="18" font-size="11" fill="#333333" font-weight="500" text-anchor="middle">Recovery</text>
+  <text x="460" y="18" font-size="11" fill="#333333" font-weight="500" text-anchor="middle">Recovery</text>
+  <text x="600" y="18" font-size="11" fill="#333333" font-weight="500" text-anchor="middle">Recovery</text>
+
+  <text x="310" y="33" font-size="11" fill="#555555" text-anchor="middle">Plasma 1 (high)</text>
+  <text x="310" y="46" font-size="11" fill="#555555" text-anchor="middle">91 pg/ml</text>
+  <text x="460" y="33" font-size="11" fill="#555555" text-anchor="middle">Plasma 2 (medium)</text>
+  <text x="460" y="46" font-size="11" fill="#555555" text-anchor="middle">19 pg/ml</text>
+  <text x="600" y="33" font-size="11" fill="#555555" text-anchor="middle">Plasma 3 (low)</text>
+  <text x="600" y="46" font-size="11" fill="#555555" text-anchor="middle">6 pg/ml</text>
+
+  <!-- ── SECTION a: Freeze thaw stability ── -->
+  <rect x="0" y="52" width="680" height="24" fill="#f5f4f0"/>
+  <line x1="0" y1="52" x2="680" y2="52" stroke="#cccccc" stroke-width="0.5"/>
+  <line x1="0" y1="76" x2="680" y2="76" stroke="#cccccc" stroke-width="0.5"/>
+  <text x="14" y="68" font-size="11" fill="#333333" font-weight="500">a) Freeze thaw stability</text>
+
+  <!-- 0x -->
+  <rect x="0" y="76" width="680" height="26" fill="#ffffff"/>
+  <line x1="0" y1="102" x2="680" y2="102" stroke="#e8e8e8" stroke-width="0.5"/>
+  <text x="14" y="93" fill="#666666">0x</text>
+  <text x="310" y="93" fill="#444444" text-anchor="middle">100%</text>
+  <text x="460" y="93" fill="#444444" text-anchor="middle">100%</text>
+  <text x="600" y="93" fill="#444444" text-anchor="middle">100%</text>
+
+  <!-- 1x -->
+  <rect x="0" y="102" width="680" height="26" fill="#f9f9f8"/>
+  <line x1="0" y1="128" x2="680" y2="128" stroke="#e8e8e8" stroke-width="0.5"/>
+  <text x="14" y="119" fill="#666666">1x</text>
+  <text x="310" y="119" fill="#444444" text-anchor="middle">98%</text>
+  <text x="460" y="119" fill="#444444" text-anchor="middle">118%</text>
+  <text x="600" y="119" fill="#444444" text-anchor="middle">85%</text>
+
+  <!-- 2x -->
+  <rect x="0" y="128" width="680" height="26" fill="#ffffff"/>
+  <line x1="0" y1="154" x2="680" y2="154" stroke="#e8e8e8" stroke-width="0.5"/>
+  <text x="14" y="145" fill="#666666">2x</text>
+  <text x="310" y="145" fill="#444444" text-anchor="middle">116%</text>
+  <text x="460" y="145" fill="#444444" text-anchor="middle">118%</text>
+  <text x="600" y="145" fill="#444444" text-anchor="middle">96%</text>
+
+  <!-- 3x -->
+  <rect x="0" y="154" width="680" height="26" fill="#f9f9f8"/>
+  <line x1="0" y1="180" x2="680" y2="180" stroke="#cccccc" stroke-width="0.8"/>
+  <text x="14" y="171" fill="#666666">3x</text>
+  <text x="310" y="171" fill="#444444" text-anchor="middle">115%</text>
+  <text x="460" y="171" fill="#444444" text-anchor="middle">116%</text>
+  <text x="600" y="171" fill="#444444" text-anchor="middle">96%</text>
+
+  <!-- ── SECTION b: 4–8°C stability ── -->
+  <rect x="0" y="180" width="680" height="24" fill="#f5f4f0"/>
+  <line x1="0" y1="180" x2="680" y2="180" stroke="#cccccc" stroke-width="0.5"/>
+  <line x1="0" y1="204" x2="680" y2="204" stroke="#cccccc" stroke-width="0.5"/>
+  <text x="14" y="196" font-size="11" fill="#333333" font-weight="500">b) 4°– 8°C stability</text>
+
+  <!-- 4oC 2d -->
+  <rect x="0" y="204" width="680" height="26" fill="#ffffff"/>
+  <line x1="0" y1="230" x2="680" y2="230" stroke="#e8e8e8" stroke-width="0.5"/>
+  <text x="14" y="221" fill="#666666">4°C, 2d</text>
+  <text x="310" y="221" fill="#444444" text-anchor="middle">125%</text>
+  <text x="460" y="221" fill="#444444" text-anchor="middle">122%</text>
+  <text x="600" y="221" fill="#444444" text-anchor="middle">100%</text>
+
+  <!-- 4oC 7d -->
+  <rect x="0" y="230" width="680" height="26" fill="#f9f9f8"/>
+  <line x1="0" y1="256" x2="680" y2="256" stroke="#e8e8e8" stroke-width="0.5"/>
+  <text x="14" y="247" fill="#666666">4°C, 7d</text>
+  <text x="310" y="247" fill="#444444" text-anchor="middle">115%</text>
+  <text x="460" y="247" fill="#444444" text-anchor="middle">121%</text>
+  <text x="600" y="247" fill="#444444" text-anchor="middle">98%</text>
+
+  <!-- 4oC o/n -->
+  <rect x="0" y="256" width="680" height="26" fill="#ffffff"/>
+  <line x1="0" y1="282" x2="680" y2="282" stroke="#cccccc" stroke-width="0.8"/>
+  <text x="14" y="273" fill="#666666">4°C, o/n</text>
+  <text x="310" y="273" fill="#444444" text-anchor="middle">124%</text>
+  <text x="460" y="273" fill="#444444" text-anchor="middle">131%</text>
+  <text x="600" y="273" fill="#444444" text-anchor="middle">102%</text>
+
+  <!-- ── SECTION c: 20–25°C stability ── -->
+  <rect x="0" y="282" width="680" height="24" fill="#f5f4f0"/>
+  <line x1="0" y1="282" x2="680" y2="282" stroke="#cccccc" stroke-width="0.5"/>
+  <line x1="0" y1="306" x2="680" y2="306" stroke="#cccccc" stroke-width="0.5"/>
+  <text x="14" y="298" font-size="11" fill="#333333" font-weight="500">c) 20 – 25°C stability</text>
+
+  <!-- RT 2d -->
+  <rect x="0" y="306" width="680" height="26" fill="#ffffff"/>
+  <line x1="0" y1="332" x2="680" y2="332" stroke="#e8e8e8" stroke-width="0.5"/>
+  <text x="14" y="323" fill="#666666">RT, 2d</text>
+  <text x="310" y="323" fill="#444444" text-anchor="middle">113%</text>
+  <text x="460" y="323" fill="#444444" text-anchor="middle">135%</text>
+  <text x="600" y="323" fill="#444444" text-anchor="middle">96%</text>
+
+  <!-- RT 7d -->
+  <rect x="0" y="332" width="680" height="26" fill="#f9f9f8"/>
+  <line x1="0" y1="358" x2="680" y2="358" stroke="#e8e8e8" stroke-width="0.5"/>
+  <text x="14" y="349" fill="#666666">RT, 7d</text>
+  <text x="310" y="349" fill="#444444" text-anchor="middle">118%</text>
+  <text x="460" y="349" fill="#444444" text-anchor="middle">112%</text>
+  <text x="600" y="349" fill="#444444" text-anchor="middle">100%</text>
+
+  <!-- RT o/n -->
+  <rect x="0" y="358" width="680" height="26" fill="#ffffff"/>
+  <line x1="0" y1="384" x2="680" y2="384" stroke="#cccccc" stroke-width="1"/>
+  <text x="14" y="375" fill="#666666">RT, o/n</text>
+  <text x="310" y="375" fill="#444444" text-anchor="middle">101%</text>
+  <text x="460" y="375" fill="#444444" text-anchor="middle">118%</text>
+  <text x="600" y="375" fill="#444444" text-anchor="middle">99%</text>
+
+</svg>
