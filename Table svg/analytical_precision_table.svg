@@ -35,13 +35,13 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="3.032337"
-     inkscape:cx="419.97311"
-     inkscape:cy="216.1699"
-     inkscape:window-width="3840"
-     inkscape:window-height="2054"
-     inkscape:window-x="-11"
-     inkscape:window-y="-11"
+     inkscape:zoom="1.5161685"
+     inkscape:cx="191.27162"
+     inkscape:cy="185.66538"
+     inkscape:window-width="2560"
+     inkscape:window-height="1369"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg73" />
   <title
@@ -286,7 +286,7 @@
      y="71"
      fill="#444444"
      text-anchor="middle"
-     id="text24">8.04</text>
+     id="text24">8.0</text>
   <!-- NfL-QC-M -->
   <rect
      x="0"
@@ -414,7 +414,7 @@
      y="131"
      fill="#444444"
      text-anchor="middle"
-     id="text40">14.4</text>
+     id="text40">10.7</text>
   <!-- NfL-LoQ -->
   <rect
      x="0"
@@ -478,7 +478,7 @@
      y="161"
      fill="#444444"
      text-anchor="middle"
-     id="text48">18.4</text>
+     id="text48">14.4</text>
   <!-- Cal-QC-80 -->
   <rect
      x="0"
@@ -524,7 +524,7 @@
      y="191"
      fill="#444444"
      text-anchor="middle"
-     id="text53">10.21</text>
+     id="text53">10.2</text>
   <text
      x="550"
      y="191"
@@ -542,7 +542,7 @@
      y="191"
      fill="#444444"
      text-anchor="middle"
-     id="text56">8.48</text>
+     id="text56">8.5</text>
   <!-- Cal-QC-3.2 -->
   <rect
      x="0"
@@ -588,7 +588,7 @@
      y="221"
      fill="#444444"
      text-anchor="middle"
-     id="text61">14.83</text>
+     id="text61">14.8</text>
   <text
      x="550"
      y="221"
@@ -606,7 +606,7 @@
      y="221"
      fill="#444444"
      text-anchor="middle"
-     id="text64">12.71</text>
+     id="text64">12.7</text>
   <!-- Cal-QC-0.1 -->
   <rect
      x="0"
@@ -652,7 +652,7 @@
      y="251"
      fill="#444444"
      text-anchor="middle"
-     id="text69">13.38</text>
+     id="text69">13.4</text>
   <text
      x="550"
      y="251"
@@ -670,7 +670,7 @@
      y="251"
      fill="#444444"
      text-anchor="middle"
-     id="text72">13.47</text>
+     id="text72">13.5</text>
   <!-- vertical dividers full height -->
   <line
      x1="215"
