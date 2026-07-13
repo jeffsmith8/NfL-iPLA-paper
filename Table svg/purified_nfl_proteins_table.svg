@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   viewBox="0 0 960 318.5"
+   viewBox="0 0 822.9118 318.46289"
    font-family="'Helvetica Neue', Helvetica, Arial, sans-serif"
    font-size="12px"
    role="img"
    version="1.1"
    id="svg123"
    sodipodi:docname="purified_nfl_proteins_table.svg"
-   width="960"
-   height="318.5"
+   width="822.9118"
+   height="318.46289"
    inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -28,9 +28,9 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="1.6763636"
-     inkscape:cx="365.37419"
-     inkscape:cy="368.95336"
+     inkscape:zoom="2.3707361"
+     inkscape:cx="446.27489"
+     inkscape:cy="183.27641"
      inkscape:window-width="3840"
      inkscape:window-height="2054"
      inkscape:window-x="-11"
@@ -57,17 +57,18 @@
   <rect
      x="0"
      y="0"
-     width="960"
+     width="822.9118"
      height="30"
      fill="#ffffff"
-     id="rect1" />
+     id="rect1"
+     style="stroke-width:0.925851" />
   <line
      x1="0"
      y1="30"
-     x2="960"
+     x2="822.79828"
      y2="30"
      stroke="#aaaaaa"
-     stroke-width="1.2"
+     stroke-width="1.11094"
      id="line1" />
   <text
      x="14"
@@ -148,29 +149,22 @@
      font-weight="500"
      text-anchor="middle"
      id="text10">#lot</text>
-  <text
-     x="880"
-     y="20"
-     font-size="11px"
-     fill="#333333"
-     font-weight="500"
-     text-anchor="middle"
-     id="text11">Method</text>
   <!-- ROW 1: *Uman Diagnostics -->
   <rect
      x="0"
      y="30"
-     width="960"
+     width="822.9118"
      height="28"
      fill="#ffffff"
-     id="rect11" />
+     id="rect11"
+     style="stroke-width:0.925851" />
   <line
      x1="0"
      y1="58"
-     x2="960"
+     x2="822.79828"
      y2="58"
      stroke="#e8e8e8"
-     stroke-width="0.5"
+     stroke-width="0.462893"
      id="line11" />
   <text
      x="14"
@@ -232,27 +226,22 @@
      fill="#444444"
      text-anchor="middle"
      id="text21">70805</text>
-  <text
-     x="880"
-     y="48"
-     fill="#444444"
-     text-anchor="middle"
-     id="text22">ELISA, iPLA</text>
   <!-- ROW 2: R&D Biosystems -->
   <rect
      x="0"
      y="58"
-     width="960"
+     width="822.9118"
      height="28"
      fill="#f9f9f8"
-     id="rect22" />
+     id="rect22"
+     style="stroke-width:0.925851" />
   <line
      x1="0"
      y1="86"
-     x2="960"
+     x2="822.5"
      y2="86"
      stroke="#e8e8e8"
-     stroke-width="0.5"
+     stroke-width="0.46281"
      id="line22" />
   <text
      x="14"
@@ -314,27 +303,22 @@
      fill="#444444"
      text-anchor="middle"
      id="text32">MMA0420071</text>
-  <text
-     x="880"
-     y="76"
-     fill="#444444"
-     text-anchor="middle"
-     id="text33">ELISA, iPLA</text>
   <!-- ROW 3: *PerkinElmer -->
   <rect
      x="0"
      y="86"
-     width="960"
+     width="822.79828"
      height="28"
      fill="#ffffff"
-     id="rect33" />
+     id="rect33"
+     style="stroke-width:0.925787" />
   <line
      x1="0"
      y1="114"
-     x2="960"
+     x2="822.5"
      y2="114"
      stroke="#e8e8e8"
-     stroke-width="0.5"
+     stroke-width="0.46281"
      id="line33" />
   <text
      x="14"
@@ -396,27 +380,22 @@
      fill="#444444"
      text-anchor="middle"
      id="text43">2786731</text>
-  <text
-     x="880"
-     y="104"
-     fill="#444444"
-     text-anchor="middle"
-     id="text44">ELISA</text>
   <!-- ROW 4: Origene -->
   <rect
      x="0"
      y="114"
-     width="960"
+     width="822.9118"
      height="28"
      fill="#f9f9f8"
-     id="rect44" />
+     id="rect44"
+     style="stroke-width:0.925851" />
   <line
      x1="0"
      y1="142"
-     x2="960"
+     x2="822.5"
      y2="142"
      stroke="#e8e8e8"
-     stroke-width="0.5"
+     stroke-width="0.46281"
      id="line44" />
   <text
      x="14"
@@ -477,27 +456,22 @@
      fill="#444444"
      text-anchor="middle"
      id="text54">WX00AC80</text>
-  <text
-     x="880"
-     y="132"
-     fill="#444444"
-     text-anchor="middle"
-     id="text55">ELISA</text>
   <!-- ROW 5: Abcam -->
   <rect
      x="0"
      y="142"
-     width="960"
+     width="822.79828"
      height="28"
      fill="#ffffff"
-     id="rect55" />
+     id="rect55"
+     style="stroke-width:0.925787" />
   <line
      x1="0"
      y1="170"
-     x2="960"
+     x2="822.5"
      y2="170"
      stroke="#e8e8e8"
-     stroke-width="0.5"
+     stroke-width="0.46281"
      id="line55" />
   <text
      x="14"
@@ -559,27 +533,22 @@
      fill="#444444"
      text-anchor="middle"
      id="text65">1015457-1</text>
-  <text
-     x="880"
-     y="160"
-     fill="#444444"
-     text-anchor="middle"
-     id="text66">ELISA, iPLA</text>
   <!-- ROW 6: Abnova -->
   <rect
      x="0"
      y="170"
-     width="960"
+     width="822.9118"
      height="28"
      fill="#f9f9f8"
-     id="rect66" />
+     id="rect66"
+     style="stroke-width:0.925851" />
   <line
      x1="0"
      y1="198"
-     x2="960"
+     x2="822.5"
      y2="198"
      stroke="#e8e8e8"
-     stroke-width="0.5"
+     stroke-width="0.46281"
      id="line66" />
   <text
      x="14"
@@ -640,27 +609,22 @@
      fill="#444444"
      text-anchor="middle"
      id="text76">N4191</text>
-  <text
-     x="880"
-     y="188"
-     fill="#444444"
-     text-anchor="middle"
-     id="text77">ELISA, iPLA</text>
   <!-- ROW 7: Encor Biotechnology -->
   <rect
      x="0"
      y="198"
-     width="960"
+     width="822.79828"
      height="28"
      fill="#ffffff"
-     id="rect77" />
+     id="rect77"
+     style="stroke-width:0.925787" />
   <line
      x1="0"
      y1="226"
-     x2="960"
+     x2="822.5"
      y2="226"
      stroke="#e8e8e8"
-     stroke-width="0.5"
+     stroke-width="0.46281"
      id="line77" />
   <text
      x="14"
@@ -722,27 +686,22 @@
      fill="#444444"
      text-anchor="middle"
      id="text87">080320</text>
-  <text
-     x="880"
-     y="216"
-     fill="#444444"
-     text-anchor="middle"
-     id="text88">ELISA, iPLA</text>
   <!-- ROW 8: MyBioSource -->
   <rect
      x="0"
      y="226"
-     width="960"
+     width="822.9118"
      height="28"
      fill="#f9f9f8"
-     id="rect88" />
+     id="rect88"
+     style="stroke-width:0.925851" />
   <line
      x1="0"
      y1="254"
-     x2="960"
+     x2="822.5"
      y2="254"
      stroke="#e8e8e8"
-     stroke-width="0.5"
+     stroke-width="0.46281"
      id="line88" />
   <text
      x="14"
@@ -804,27 +763,22 @@
      fill="#444444"
      text-anchor="middle"
      id="text98">A23050301</text>
-  <text
-     x="880"
-     y="244"
-     fill="#444444"
-     text-anchor="middle"
-     id="text99">PLA, LC-MS</text>
   <!-- ROW 9: Progen (two lot numbers) -->
   <rect
      x="0"
      y="254"
-     width="960"
+     width="822.79828"
      height="36"
      fill="#ffffff"
-     id="rect99" />
+     id="rect99"
+     style="stroke-width:0.925787" />
   <line
      x1="0"
      y1="290"
-     x2="960"
+     x2="822.5"
      y2="290"
      stroke="#e8e8e8"
-     stroke-width="0.5"
+     stroke-width="0.46281"
      id="line99" />
   <text
      x="14"
@@ -892,33 +846,22 @@
      fill="#444444"
      text-anchor="middle"
      id="text110">FAK21227</text>
-  <text
-     x="880"
-     y="270"
-     fill="#444444"
-     text-anchor="middle"
-     id="text111">ELISA, iPLA,</text>
-  <text
-     x="880"
-     y="284"
-     fill="#444444"
-     text-anchor="middle"
-     id="text112">LC-MS</text>
   <!-- ROW 10: *ProteinSimple -->
   <rect
      x="0"
      y="290"
-     width="960"
+     width="822.9118"
      height="28"
      fill="#f9f9f8"
-     id="rect112" />
+     id="rect112"
+     style="stroke-width:0.925851" />
   <line
      x1="0"
      y1="318"
-     x2="960"
+     x2="822.79828"
      y2="318"
      stroke="#cccccc"
-     stroke-width="1"
+     stroke-width="0.925787"
      id="line112" />
   <text
      x="14"
@@ -980,12 +923,6 @@
      fill="#444444"
      text-anchor="middle"
      id="text122">P303035</text>
-  <text
-     x="880"
-     y="308"
-     fill="#444444"
-     text-anchor="middle"
-     id="text123">ELISA, iPLA</text>
   <metadata
      id="metadata123">
     <rdf:RDF>
