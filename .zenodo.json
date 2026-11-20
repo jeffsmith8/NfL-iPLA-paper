@@ -1,0 +1,24 @@
+{
+  "title": "Data and analysis code for: iPLA: Immunosorbent Proximity Ligation Assay with qPCR-Conformant Calibration, Demonstrated on Neurofilament Light Chain in Brain Disorders",
+  "upload_type": "dataset",
+  "description": "<p>Raw data, Jupyter notebooks and figure/table files supporting the manuscript \"iPLA: Immunosorbent Proximity Ligation Assay with qPCR-Conformant Calibration, Demonstrated on Neurofilament Light Chain in Brain Disorders\". Each folder corresponds to an analysis in the manuscript. The conda environment is specified in environment.yml.</p><p>Licensing: data are released under CC-BY-4.0; analysis code (notebooks and ProxiPal.py) is released under the MIT licence (see LICENSE).</p>",
+  "creators": [
+    {
+      "name": "Smith, Jeffrey",
+      "affiliation": "Walter and Eliza Hall Institute of Medical Research",
+      "orcid": "0000-0003-3630-4068"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "keywords": [
+    "neurofilament light chain",
+    "NfL",
+    "proximity ligation assay",
+    "iPLA",
+    "qPCR",
+    "immunoassay",
+    "blood biomarker",
+    "MIQE"
+  ]
+}
